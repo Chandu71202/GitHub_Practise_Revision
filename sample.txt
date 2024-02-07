@@ -1,1 +1,7 @@
 Hi, This is the edit happening in the new branch
+Trying this to have merge conflicts
+
+ --- Eswar
+ --- Raja
+
+ 	Githaaaaaab
